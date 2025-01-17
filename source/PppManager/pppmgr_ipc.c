@@ -42,7 +42,7 @@
 #include <ipc_msg.h> 
 #include "pppmgr_dml_ppp_apis.h"
 #include "syscfg.h"
-
+#errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr test build1
 #define PPP_MGR_IPC_SERVER    1
 #define PROC_UUID_PATH        "/proc/sys/kernel/random/uuid"
 
